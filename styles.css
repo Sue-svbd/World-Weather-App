@@ -1,0 +1,31 @@
+body {
+  background-image: url("https://www.ventusky.com/images/social.jpg");
+  background-size: cover;
+  display: block;
+  letter-spacing: 0.2em;
+  font-size: 0.8em;
+}
+.container {
+  max-width: 600px;
+}
+
+.icon {
+  position: relative;
+  top: -50px;
+  border-radius: 50%;
+  width: 100px;
+  margin-bottom: -50px;
+}
+
+h1 {
+  font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+
+  font-weight: 900;
+}
+label {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: white;
+  font-weight: bold;
+  font-size: medium;
+  text-shadow: 1px 1px #725c5c;
+}
